@@ -1,0 +1,80 @@
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: springgreen;
+    width: 960px;
+    font-size: 18px;
+    margin: 15px auto 0 auto;
+
+}
+
+.header{
+    padding: 30px;
+    background-color: white;
+    width: 945;
+    text-align: center;
+    color: springgreen;
+    margin-bottom: 15px;
+
+
+}
+.nav{
+    padding: 30px;
+    background-color: white;
+    width: 945;
+    text-align: center;
+    color: springgreen;
+
+}
+.section{
+    margin-top: 15px;
+    color: springgreen;
+    background-color:white;
+    text-align: center;
+    float: left;
+    width: 480px;
+    padding: 30px 15px;
+    height: 210px;
+}
+.para{
+    margin-top: auto;
+    color: springgreen;
+    background-color: white;
+    margin-top: 15px;
+    padding: 15px;
+}
+.artical{
+    color: springgreen;
+    background-color: gray;
+    padding: 15px;
+    margin-top: 30px;
+}
+.heading{
+    color: springgreen;
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    font-weight: bold;    
+}
+.aside{
+    color: springgreen;
+    background-color: white;
+    width: 405px;
+    height: 225px;
+    text-align: center;
+    padding: 15px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 240px;
+}
+.footer{
+    background-color: white;
+    color: springgreen;
+    padding: 30px;
+    width: 945;
+    text-align: center;
+    margin-top: 300px;
+    height: 20px;
+}
+
